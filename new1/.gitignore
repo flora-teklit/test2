@@ -7,7 +7,7 @@
 /package.json
 # testing
 /coverage
-./src/ignored.js
+/src/ignored.js
 # production
 /build
 
